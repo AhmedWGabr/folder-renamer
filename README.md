@@ -11,8 +11,6 @@ A modern, user-friendly GUI tool for batch renaming files in a folder. Built wit
 - Stable, visually appealing interface
 
 ## Screenshot
-Below is the latest screenshot of the Folder Renamer application:
-
 ![Folder Renamer Screenshot](screenshoot.png)
 
 ## Getting Started
@@ -34,9 +32,6 @@ pip install customtkinter
 2. Select the folder you want to rename files in.
 3. Adjust the start number and digit count as needed.
 4. Preview changes and click 'Rename' to apply.
-
-## Screenshots
-![screenshot](screenshot.png)
 
 ## License
 MIT License
