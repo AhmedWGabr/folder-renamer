@@ -11,7 +11,7 @@ A modern, user-friendly GUI tool for batch renaming files in a folder. Built wit
 - Stable, visually appealing interface
 
 ## Screenshot
-Below is a screenshot of the Folder Renamer application in action:
+Below is the latest screenshot of the Folder Renamer application:
 
 ![Folder Renamer Screenshot](screenshoot.png)
 
