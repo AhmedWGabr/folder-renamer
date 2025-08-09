@@ -2,12 +2,18 @@
 
 A modern, user-friendly GUI tool for batch renaming files in a folder. Built with Python, Tkinter, and CustomTkinter for a clean, customizable interface.
 
+
 ## Features
 - Preview and batch rename files in any folder
 - Customizable filename patterns (start number, digit count, etc.)
 - Modern, custom scrollbar and numeric entry controls
 - Mouse wheel and hover arrow support for numeric fields
 - Stable, visually appealing interface
+
+## Screenshot
+Below is a screenshot of the Folder Renamer application in action:
+
+![Folder Renamer Screenshot](screenshoot.png)
 
 ## Getting Started
 
